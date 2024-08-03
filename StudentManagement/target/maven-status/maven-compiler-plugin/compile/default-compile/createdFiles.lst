@@ -1,0 +1,17 @@
+com\student\StudentManagement\controller\SubjectController.class
+com\student\StudentManagement\controller\StudentController.class
+com\student\StudentManagement\service\CustomUserDetailsService.class
+com\student\StudentManagement\entity\Student.class
+com\student\StudentManagement\security\JwtUtil.class
+com\student\StudentManagement\service\SubjectService.class
+com\student\StudentManagement\security\JwtAuthenticationFilter.class
+com\student\StudentManagement\controller\AuthController$LoginRequest.class
+com\student\StudentManagement\service\StudentService.class
+com\student\StudentManagement\StudentManagementApplication.class
+com\student\StudentManagement\repo\SubjectRepository.class
+com\student\StudentManagement\config\SecurityConfig.class
+com\student\StudentManagement\repo\StudentRepository.class
+com\student\StudentManagement\controller\AuthController.class
+com\student\StudentManagement\entity\Subject.class
+com\student\StudentManagement\entity\User.class
+com\student\StudentManagement\repo\UserRepository.class
