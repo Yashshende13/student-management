@@ -24,6 +24,6 @@ This is a Spring Boot application for managing students and subjects. It include
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-repository-url.git
-cd your-repository
+```basho
+git clone https://github.com/student-management.git
+cd student-management
